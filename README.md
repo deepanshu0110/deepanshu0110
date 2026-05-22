@@ -30,14 +30,6 @@ Helping startups and SMBs turn raw data into business decisions — through dash
 
 ---
 
-## GitHub Stats
-
-![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepanshu0110&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu0110&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## Let's Connect
 
 Open to freelance projects — reach out via [LinkedIn](https://linkedin.com/in/deepanshu0110) or drop a message on [Freelancer.com](https://www.freelancer.com/u/deepanshu0110).

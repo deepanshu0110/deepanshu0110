@@ -1,9 +1,8 @@
 # Hi, I'm Deepanshu Garg
 
-**Freelance Data Analyst & Data Scientist** | India
+**Data Analytics & Full-Stack Python Developer** | India
 
-Helping startups and SMBs turn raw data into business decisions — through dashboards, ML models, and automated reporting systems.
-
+Building analytics platforms, dashboards, reporting systems, automation tools, and AI-powered business applications using React, FastAPI, SQL, Python, and modern data visualization.
 ---
 
 ## What I Build

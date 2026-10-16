@@ -1,6 +1,6 @@
 # Hi, I'm Deepanshu Garg
 
-**Data Analytics & Full-Stack Python Developer** | India
+**Data Analyst & Data Scientist** | Applied ML and agentic AI | India
 
 Building analytics platforms, dashboards, reporting systems, automation tools, and AI-powered business applications using React, FastAPI, SQL, Python, and modern data visualization.
 ---
@@ -20,15 +20,15 @@ Building analytics platforms, dashboards, reporting systems, automation tools, a
 
 | Project | Stack | Highlight |
 |---|---|---|
-| [teleserve-agentic-router](https://github.com/deepanshu0110/teleserve-agentic-router) | LangGraph · MCP · Fine-tuned DistilBERT | Agentic ticket router, found/fixed a 208x latency bug — [live demo](https://teleserve-agentic-router-tmwo3kyftn9ix8mdgaqk64.streamlit.app) |
+| [teleserve-agentic-router](https://github.com/deepanshu0110/teleserve-agentic-router) | LangGraph · MCP · Fine-tuned DistilBERT | Agentic ticket router. Classifier scored 100% on validation but 60% on new wording; persistent MCP client cut tool calls from 3.9 s to 68 ms — [live demo](https://teleserve-agentic-router-tmwo3kyftn9ix8mdgaqk64.streamlit.app) |
 | [ResumeGapAI](https://github.com/deepanshu0110/ResumeGapAI) | Python · Scikit-learn · Streamlit | Resume-vs-JD skill gap finder — [live demo](https://resumegapai.streamlit.app) |
 | [Naxely](https://github.com/deepanshu0110/Naxely) | React · FastAPI · Supabase | AI-powered data analytics platform — [live](https://naxely.com) |
-| [Customer Churn Prediction](https://github.com/deepanshu0110/customer-churn-prediction) | Random Forest · FastAPI · Streamlit | 85% accuracy, live demo |
-| [Crypto Sentiment Dashboard](https://github.com/deepanshu0110/sentiment-dashboard) | VADER · FastAPI · Streamlit | Real-time NLP pipeline |
-| [Retail Sales Forecasting](https://github.com/deepanshu0110/retail-sales-forecasting) | Random Forest · Exp. Smoothing · FastAPI | ~10% MAPE |
+| [Customer Churn Prediction](https://github.com/deepanshu0110/customer-churn-prediction) | Logistic Regression · FastAPI · Streamlit | F1 0.71 on synthetic data, [live demo](https://deepanshu0110-customer-churn-prediction.streamlit.app) |
+| [Crypto Sentiment Dashboard](https://github.com/deepanshu0110/sentiment-dashboard) | VADER · FastAPI · Streamlit | Headline sentiment API + dashboard |
+| [Retail Sales Forecasting](https://github.com/deepanshu0110/retail-sales-forecasting) | Random Forest · Exp. Smoothing · FastAPI | Six-model comparison, forecast API |
 | [Market Basket Analysis](https://github.com/deepanshu0110/market-basket-analysis) | Apriori · FP-Growth · FastAPI | Real-time /recommend API |
 | [Movie Recommender](https://github.com/deepanshu0110/movie-recommender) | Cosine Similarity · FastAPI · Streamlit | MovieLens 100K |
-| [Titanic Survival Prediction](https://github.com/deepanshu0110/titanic-survival-prediction) | Random Forest · Scikit-learn | 82-85% accuracy |
+| [Titanic Survival Prediction](https://github.com/deepanshu0110/titanic-survival-prediction) | Logistic Regression · Random Forest | 80.4% test accuracy |
 
 ---
 

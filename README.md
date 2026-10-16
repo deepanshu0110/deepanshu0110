@@ -25,7 +25,7 @@ Building analytics platforms, dashboards, reporting systems, automation tools, a
 | [Naxely](https://github.com/deepanshu0110/Naxely) | React · FastAPI · Supabase | AI-powered data analytics platform — [live](https://naxely.com) |
 | [Customer Churn Prediction](https://github.com/deepanshu0110/customer-churn-prediction) | Logistic Regression · FastAPI · Streamlit | F1 0.71 on synthetic data, [live demo](https://deepanshu0110-customer-churn-prediction.streamlit.app) |
 | [Crypto Sentiment Dashboard](https://github.com/deepanshu0110/sentiment-dashboard) | VADER · FastAPI · Streamlit | Headline sentiment API + dashboard |
-| [Retail Sales Forecasting](https://github.com/deepanshu0110/retail-sales-forecasting) | Random Forest · Exp. Smoothing · FastAPI | Six-model comparison, forecast API |
+| [Retail Sales Forecasting](https://github.com/deepanshu0110/retail-sales-forecasting) | Random Forest · Flask · leakage-free features | 5.3% MAPE vs 28.4% naive (synthetic data), forecast API |
 | [Market Basket Analysis](https://github.com/deepanshu0110/market-basket-analysis) | Apriori · FP-Growth · FastAPI | Real-time /recommend API |
 | [Movie Recommender](https://github.com/deepanshu0110/movie-recommender) | Cosine Similarity · FastAPI · Streamlit | MovieLens 100K |
 | [Titanic Survival Prediction](https://github.com/deepanshu0110/titanic-survival-prediction) | Logistic Regression · Random Forest | 80.4% test accuracy |
